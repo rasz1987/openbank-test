@@ -1,5 +1,5 @@
 import { FC } from 'react';
-import { Step3Prop } from '../../interfaces';
+import { Step3Prop } from '../../../../interfaces';
 import successImg from './success.png';
 import errorImg from './error.png'
 

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should retrun colors 1`] = `
+Object {
+  "black": "#000000",
+  "primary": "#FF0049",
+  "secondary": "#002B45",
+  "terciary": "#FFF1E5",
+  "white": "#FFFFFF",
+}
+`;
