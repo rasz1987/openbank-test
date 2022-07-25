@@ -2,7 +2,9 @@ import { Locale } from './interface';
 
 const en: Locale = {
   translation: {
-    message: 'my message'
+    message: 'my message',
+    back: 'Back',
+    next: 'Next',
   }
 };
 
